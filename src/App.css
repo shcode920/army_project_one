@@ -1,0 +1,14 @@
+.all{
+    font-size: 50px;
+}
+.screen{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* height: 100vh; */
+    background-color: antiquewhite;
+}
+
+.spend_day_button{
+    font-size: 50px;
+}
